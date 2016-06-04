@@ -4,7 +4,7 @@
     api-level="23"
     density="xxxhdpi"
     format="7"
-    timestamp="24137208282091" >
+    timestamp="26899995202794" >
 
     <task
         name="javac"
@@ -19,16 +19,19 @@
         name="verifier"
         duration="0" />
 
-    <build timestamp="23842132698071" >
+    <artifact
+        location="/Users/archied/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/res/resources-debug.ap_"
+        type="RESOURCES" />
+
+    <build timestamp="26395665780385" >
         <artifact
             location="/Users/archied/AndroidStudioProjects/xyzreader/XYZReader/build/outputs/apk/XYZReader-debug.apk"
             type="MAIN" />
     </build>
-    <build timestamp="23991711028088" >
+    <build timestamp="26899995202794" >
         <artifact
             location="/Users/archied/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/res/resources-debug.ap_"
             type="RESOURCES" />
     </build>
-    <build timestamp="24137208282091" />
 
 </instant-run>
