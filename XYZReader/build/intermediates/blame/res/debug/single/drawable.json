@@ -8,12 +8,12 @@
         "source": "/Users/archied/.android/build-cache/aaee52fbaf3edc60a0a0b8f3eb664160efe3eb5c/output/res/drawable/abc_btn_radio_material.xml"
     },
     {
-        "merged": "/Users/archied/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
-        "source": "/Users/archied/.android/build-cache/aaee52fbaf3edc60a0a0b8f3eb664160efe3eb5c/output/res/drawable/abc_btn_borderless_material.xml"
-    },
-    {
         "merged": "/Users/archied/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
         "source": "/Users/archied/.android/build-cache/aaee52fbaf3edc60a0a0b8f3eb664160efe3eb5c/output/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/archied/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/archied/.android/build-cache/aaee52fbaf3edc60a0a0b8f3eb664160efe3eb5c/output/res/drawable/abc_btn_borderless_material.xml"
     },
     {
         "merged": "/Users/archied/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",

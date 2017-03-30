@@ -32,16 +32,16 @@
         "source": "/Users/archied/.android/build-cache/aaee52fbaf3edc60a0a0b8f3eb664160efe3eb5c/output/res/layout/support_simple_spinner_dropdown_item.xml"
     },
     {
-        "merged": "/Users/archied/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
-        "source": "/Users/archied/.android/build-cache/a677bedb52adf2c48beda4ef650de83c75a214fc/output/res/layout/design_layout_tab_icon.xml"
+        "merged": "/Users/archied/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/archied/.android/build-cache/aaee52fbaf3edc60a0a0b8f3eb664160efe3eb5c/output/res/layout/abc_screen_content_include.xml"
     },
     {
         "merged": "/Users/archied/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
         "source": "/Users/archied/.android/build-cache/a677bedb52adf2c48beda4ef650de83c75a214fc/output/res/layout/design_menu_item_action_area.xml"
     },
     {
-        "merged": "/Users/archied/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
-        "source": "/Users/archied/.android/build-cache/aaee52fbaf3edc60a0a0b8f3eb664160efe3eb5c/output/res/layout/abc_screen_content_include.xml"
+        "merged": "/Users/archied/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/Users/archied/.android/build-cache/a677bedb52adf2c48beda4ef650de83c75a214fc/output/res/layout/design_layout_tab_icon.xml"
     },
     {
         "merged": "/Users/archied/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",

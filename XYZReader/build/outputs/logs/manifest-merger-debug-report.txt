@@ -46,7 +46,7 @@ MERGED from [com.android.support:cardview-v7:23.0.0] /Users/archied/.android/bui
 	android:icon
 		ADDED from /Users/archied/AndroidStudioProjects/xyzreader/XYZReader/src/main/AndroidManifest.xml:13:9-43
 	android:theme
-		ADDED from /Users/archied/AndroidStudioProjects/xyzreader/XYZReader/src/main/AndroidManifest.xml:15:9-43
+		ADDED from /Users/archied/AndroidStudioProjects/xyzreader/XYZReader/src/main/AndroidManifest.xml:15:9-54
 activity#com.example.xyzreader.ui.ArticleListActivity
 ADDED from /Users/archied/AndroidStudioProjects/xyzreader/XYZReader/src/main/AndroidManifest.xml:17:9-24:20
 	android:label
